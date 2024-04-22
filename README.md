@@ -2,6 +2,7 @@
 > Simplifying tech with straightforward tutorials made with great care.
 
 # Latest Articles
+- ### [JavaScript Load Order](https://www.codecode.io/javascript-load-order)
 - ### [How To Install Xubuntu On An Old Mac](https://www.codecode.io/how-to-install-xubuntu-on-an-old-mac/)
 - ### [Terminal ZSH Prompt Customization](https://www.codecode.io/terminal-zsh-prompt-customization/)
 - ### [How To Erase And Reinstall macOS](https://www.codecode.io/erase-and-reinstall-macos/)
