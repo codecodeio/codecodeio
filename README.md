@@ -1,7 +1,10 @@
 # [www.codecode.io](https://www.codecode.io)
+
 > Simplifying tech with straightforward tutorials made with great care.
 
 # Latest Articles
+
+- ### [How to Install Magento For Local Development Using Docker](https://www.codecode.io/how-to-install-magento-for-local-development-using-docker/)
 - ### [How To Create A Webp Image using cwebp](https://www.codecode.io/how-to-create-a-webp-image-using-cwebp)
 - ### [JavaScript Load Order](https://www.codecode.io/javascript-load-order)
 - ### [How To Install Xubuntu On An Old Mac](https://www.codecode.io/how-to-install-xubuntu-on-an-old-mac/)
